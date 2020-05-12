@@ -328,7 +328,7 @@ namespace WarApp{
 
       D1 = new Deck();
       D2 = D1.split();
-      D2 = D2.split().split().split();
+      //D2 = D2.split().split().split();
       DeckImage1 = new PictureBox();
       DeckImage2 = new PictureBox();
 
